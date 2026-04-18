@@ -55,8 +55,9 @@ sh install-simplescreenrecorder-v*.sh
 ###############################################################################################
 
 # Spotify
+# (v4 uses modern signed-by gpg keyring, replaces deprecated apt-key)
 
-sh install-spotify-v*.sh
+sh install-spotify-v4.sh
 
 
 ###############################################################################################
